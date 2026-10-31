@@ -1,0 +1,118 @@
+{
+  "gradient_xor.png": {
+    "algorithm": "xor",
+    "source": "gradient.png",
+    "shape": [
+      512,
+      512,
+      3
+    ]
+  },
+  "gradient_aes-ecb.png": {
+    "algorithm": "aes-ecb",
+    "source": "gradient.png",
+    "shape": [
+      512,
+      512,
+      3
+    ],
+    "tail": "47dde9bd7cd99d3913fab1c12680d34d"
+  },
+  "gradient_aes-ctr.png": {
+    "algorithm": "aes-ctr",
+    "source": "gradient.png",
+    "shape": [
+      512,
+      512,
+      3
+    ],
+    "nonce": "9e2f14d96bcbf56f"
+  },
+  "checkerboard_xor.png": {
+    "algorithm": "xor",
+    "source": "checkerboard.png",
+    "shape": [
+      512,
+      512,
+      3
+    ]
+  },
+  "checkerboard_aes-ecb.png": {
+    "algorithm": "aes-ecb",
+    "source": "checkerboard.png",
+    "shape": [
+      512,
+      512,
+      3
+    ],
+    "tail": "47dde9bd7cd99d3913fab1c12680d34d"
+  },
+  "checkerboard_aes-ctr.png": {
+    "algorithm": "aes-ctr",
+    "source": "checkerboard.png",
+    "shape": [
+      512,
+      512,
+      3
+    ],
+    "nonce": "3a3d8c28d345053c"
+  },
+  "noise_texture_xor.png": {
+    "algorithm": "xor",
+    "source": "noise_texture.png",
+    "shape": [
+      512,
+      512,
+      3
+    ]
+  },
+  "noise_texture_aes-ecb.png": {
+    "algorithm": "aes-ecb",
+    "source": "noise_texture.png",
+    "shape": [
+      512,
+      512,
+      3
+    ],
+    "tail": "47dde9bd7cd99d3913fab1c12680d34d"
+  },
+  "noise_texture_aes-ctr.png": {
+    "algorithm": "aes-ctr",
+    "source": "noise_texture.png",
+    "shape": [
+      512,
+      512,
+      3
+    ],
+    "nonce": "ef6b2159aae1bb3e"
+  },
+  "my_pic_xor.png": {
+    "algorithm": "xor",
+    "source": "my_pic.png",
+    "shape": [
+      256,
+      256,
+      3
+    ]
+  },
+  "my_pic_aes-ecb.png": {
+    "algorithm": "aes-ecb",
+    "source": "my_pic.png",
+    "shape": [
+      256,
+      256,
+      3
+    ],
+    "tail": "47dde9bd7cd99d3913fab1c12680d34d"
+  },
+  "my_pic_aes-ctr.png": {
+    "algorithm": "aes-ctr",
+    "source": "my_pic.png",
+    "shape": [
+      256,
+      256,
+      3
+    ],
+    "nonce": "e169993c9a99ff25"
+  }
+}
